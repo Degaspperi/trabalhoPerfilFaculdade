@@ -1,0 +1,17 @@
+body{
+    background-color: #134f5c;
+}
+
+
+
+table{
+    margin:  auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    align-tracks: center;
+}
+
+img{
+    border-radius: 200px;
+}
